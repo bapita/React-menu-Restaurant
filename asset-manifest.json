@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-menu-Restaurant/static/css/main.b02436dc.chunk.css",
+    "main.js": "/React-menu-Restaurant/static/js/main.1c626a3f.chunk.js",
+    "main.js.map": "/React-menu-Restaurant/static/js/main.1c626a3f.chunk.js.map",
+    "runtime-main.js": "/React-menu-Restaurant/static/js/runtime-main.a676b11a.js",
+    "runtime-main.js.map": "/React-menu-Restaurant/static/js/runtime-main.a676b11a.js.map",
+    "static/css/2.150d169a.chunk.css": "/React-menu-Restaurant/static/css/2.150d169a.chunk.css",
+    "static/js/2.0173b089.chunk.js": "/React-menu-Restaurant/static/js/2.0173b089.chunk.js",
+    "static/js/2.0173b089.chunk.js.map": "/React-menu-Restaurant/static/js/2.0173b089.chunk.js.map",
+    "static/js/3.6460cfbc.chunk.js": "/React-menu-Restaurant/static/js/3.6460cfbc.chunk.js",
+    "static/js/3.6460cfbc.chunk.js.map": "/React-menu-Restaurant/static/js/3.6460cfbc.chunk.js.map",
+    "index.html": "/React-menu-Restaurant/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/React-menu-Restaurant/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.b02436dc.chunk.css.map": "/React-menu-Restaurant/static/css/main.b02436dc.chunk.css.map",
+    "static/js/2.0173b089.chunk.js.LICENSE.txt": "/React-menu-Restaurant/static/js/2.0173b089.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a676b11a.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.0173b089.chunk.js",
+    "static/css/main.b02436dc.chunk.css",
+    "static/js/main.1c626a3f.chunk.js"
+  ]
+}
